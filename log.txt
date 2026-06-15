@@ -1,0 +1,6 @@
+[2026-06-15 22:30:15.498936] omeryigit kayıt oldu
+[2026-06-15 22:30:20.442644] omeryigit giriş yaptı
+[2026-06-15 22:30:40.982947] mert kayıt oldu
+[2026-06-15 22:30:45.804622] mert giriş yaptı
+[2026-06-15 22:31:07.239537] omeryigit giriş yaptı
+[2026-06-15 22:31:11.165064] omeryigit sınava girdi -> 10
